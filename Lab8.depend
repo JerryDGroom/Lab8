@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1427321182 source:c:\users\jerry groom\desktop\data structures\lab8\list-recursion.cpp
+	<iostream>
+	"list-recursion.h"
+
+1427078862 c:\users\jerry groom\desktop\data structures\lab8\list-recursion.h
+
+1427321142 source:c:\users\jerry groom\desktop\data structures\lab8\test-recursion.cpp
+	<iostream>
+	"list-recursion.cpp"
+
+1427321528 c:\users\jerry groom\desktop\data structures\lab8\list-recursion.cpp
+	<iostream>
+	"list-recursion.h"
+
