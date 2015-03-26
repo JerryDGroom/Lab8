@@ -269,7 +269,7 @@ void List<DT>:: reverseSub ( ListNode<DT> *p, ListNode<DT> *nextP )
         head = p; // move head to end of list
     else(p->next != nextP); // recursive case
     {
-        if( nextP !=0 )
+        if( nextP != 0 )
         {
             reverseSub(nextP,nextP->next);
             nextP->next = p;
